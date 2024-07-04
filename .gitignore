@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Prisma
+src/prisma/dev.db
+src/prisma/dev.db-journal
+src/prisma/migrations/
+
+# TSOA
+dist/
+src/routes/routes.ts
+
+# TypeScript
+*.tsbuildinfo
+
+# Production
+build/
+dist/
+out/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.lock
