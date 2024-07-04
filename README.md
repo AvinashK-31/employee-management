@@ -10,7 +10,7 @@ This is a simple Employee Management System built with Node.js, Express, TypeScr
 
 ## Prerequisites
 
-- Node.js (v14 or later)
+- Node.js (v18 or later)
 - Yarn
 - MySQL
 - Salesforce Developer Account

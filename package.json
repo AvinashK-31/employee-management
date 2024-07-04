@@ -2,7 +2,7 @@
   "name": "employee-management",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "AvinashK31 <kumavat.avinash@oncoursehome.com>",
+  "author": "avinash.kumawat418@gmail.com",
   "license": "MIT",
   "scripts": {
     "dev": "ts-node src/index.ts",
